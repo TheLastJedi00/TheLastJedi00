@@ -2,7 +2,7 @@
 
 Me chamo Jediael Borges e sou desenvolvedor Web freelancer e estudante de Análise e Desenvolvimento de Sistemas.
 
-- 🌱 Aprendendo ReactJS
+- 🌱 Aprendendo Spring em Kotlin 
 - 📫 Email: jediaelborges23@gmail.com
 - ⚡ Apelido: Jedi (apesar de nunca ter assistido Star Wars)
 
